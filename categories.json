@@ -1,0 +1,6 @@
+{
+    "Fire Alarm": ["fire", "alam"],
+    "Electrical": ["electrical", "elec"],
+    "Low Voltage": ["low voltage", "lv", "voltage"]
+    
+}
